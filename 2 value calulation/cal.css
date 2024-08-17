@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(228, 135, 59);
+}
+button{
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-left: 8PX;
+    padding-right: 8PX;
+    padding-bottom: 4px;
+    margin: 5px;
+    border: 0px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 136, 255);
+    border-radius: 5px;
+}
+.topic{
+    color: blue;
+}
+input{
+    border-radius: 10px;
+    height: 20px;
+    border-color: blue;
+}
+label{
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.clr{
+    background-color: red;
+}
